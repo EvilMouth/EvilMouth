@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izyhang&layout=compact)](https://github.com/izyhang/github-readme-stats)
 
+**Now Playing** on Spotify
+
 <a href="https://natemoo-re.zyhang.vercel.app/now-playing?open">
     <img src="https://natemoo-re.zyhang.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
