@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [zyhang](https://www.zyhang.com) 👋
 
 <!--
 **izyhang/izyhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://raw.githubusercontent.com/izyhang/home/master/docs/page_background.jpg)
+
+<!-- <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/izyhang/count.svg" />
+</p> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izyhang&layout=compact)](https://github.com/izyhang/github-readme-stats)
+
+<a href="https://natemoo-re.zyhang.vercel.app/now-playing?open">
+    <img src="https://natemoo-re.zyhang.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
