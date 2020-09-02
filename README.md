@@ -22,10 +22,6 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/izyhang/count.svg" />
 </p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izyhang&layout=compact)](https://github.com/izyhang/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izyhang&layout=compact)](https://github.com/izyhang/github-readme-stats) -->
 
-**Now Playing** on Spotify
-
-<a href="https://natemoo-re.zyhang.vercel.app/now-playing?open">
-    <img src="https://natemoo-re.zyhang.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=izyhang&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=izyhang&redirect=true)
