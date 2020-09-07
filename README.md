@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/izyhang/home/master/docs/page_background.jpg)
+<!-- ![](https://raw.githubusercontent.com/izyhang/home/master/docs/page_background.jpg) -->
 
 <!-- <p align="center"> 
   Visitor count<br>
